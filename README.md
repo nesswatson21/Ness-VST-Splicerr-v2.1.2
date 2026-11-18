@@ -100,4 +100,4 @@ For bug reports, technical support, suggestions, and future feature requests, pl
 
 </div>
 
-**Full Changelog**: https://github.com/nesswatson21/Ness-VST-Developer/commits/ness_splicerr_setup.exe
+
